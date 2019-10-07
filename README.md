@@ -1,5 +1,7 @@
 # GTD
 
+A script that can plot terrorism activities around the world on a map.
+
 A project I embarked on to learn more about Pandas, databases, and manipulation in Python. I also wanted to put the regions affected the most by terrorism into perspective.
 
 I wanted to create a schematic of the entire Earth with appropriate coordinates, but OpenStreetMap's servers could not handle my large 
