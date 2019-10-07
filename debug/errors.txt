@@ -1,0 +1,54 @@
+NOTES:
+    -Use selenium to autogenerate map
+    -Automate map generation
+        -Hesitant as I don't know how poorly my computer would handle the tasks
+
+
+IN PROGRESS: Australasia & Oceania
+    -Area too large to export via OpenStreetMap
+
+COMPLETE: North America coords
+    -Map needs correction
+    -Adjust latitude max by +13
+
+COMPLETE: South America
+    -Adjust latitude min by -9
+
+COMPLETE: Central America & Caribbean
+
+COMPLETE: Sub-Saharan Africa
+
+COMPLETE: Central Asia coords
+    -Seems to work perfectly, map scaled properly
+
+COMPLETE: Western Europe
+    -Adjust latitude max by +10
+    -Redo western europe
+
+COMPLETED: Eastern Europe
+    -Berlin placed from Eastern Europe into Western Europe
+    -Perhaps the most frustrating part of this is changing over
+    -Adjusted longitude max by +3
+
+COMPLETE: East Asia
+
+COMPLETE: South Asia
+    -Adjusted latitude max by +3
+
+COMPLETE: Southeast Asia
+    -Changed Ottawa Ontario, Canada from being in Southeast Asia to North America
+
+COMPLETE: North Africa & Middle East
+    -Entry 81973 changed from Kunar, Iraq to Kunar, Afghanistan
+        -Changed region from North Africa & Middle East to South Asia
+    -Entry 84064 changed from Aliser, Iraq to Ali Shir, Afghanistan
+        -Region changed from North Africa & Middle East to South Asia
+    -Adjusted latitude max by +1
+
+Latitude, Longitude
+28.291564, -16.62913(Santa Cruz de Tenerife, Spain) incorrectly pointing to Galicia, Spain changed to 42.5751, -8.1339
+28.291564, -16.62913(Santa Cruz de Tenerife, Spain) incorrectly pointing to Khatlon, Tajikstan changed to 37.9114, 69.0970
+28.291564, -16.62913(Santa Cruz de Tenerife, Spain) incorrectly pointing to Dushanbe, Tajikstan changed to 38.552185, 68.767441
+31.9285, 35.071092(Bil'in, Palestine) incorrectly pointing to Bilin, Myanmar changed to  17.2224, 97.2356
+24.8981, 91.87119 pointing to Sylhet, Bahrain changed to Sylhet, Bangladesh
+    -Changed from North Africa & Middle East to South Asia
