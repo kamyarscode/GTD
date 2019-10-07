@@ -1,5 +1,5 @@
 NOTES:
-    -Use selenium to autogenerate map
+    -Use selenium to autogenerate and export maps on OSM 
     -Automate map generation
         -Hesitant as I don't know how poorly my computer would handle the tasks
 
